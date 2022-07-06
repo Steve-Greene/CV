@@ -1,33 +1,12 @@
 ## Steve Greene,PMP&reg;&nbsp;
 Location: Raleigh, NC USA&nbsp; | <a href="https://www.linkedin.com/in/stevegreene/">linkedin.com/in/stevegreene</a>
 
-Enough. You can use the [editor on GitHub](https://github.com/Steve-Greene/CV/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<p paraeid="{9d584332-5666-4e06-9d7b-11f6e784eca4}{228}" paraid="1293564751" style="text-align: center;"><span style="font-size:18px;"><strong>SENIOR PARTNER MARKETING LEAD&nbsp;</strong><br />
+<b>15+ years experience and proven success building and managing partner marketing programs, developing partner lead pipeline through webinars, email campaigns, events, and other creative programs.&nbsp;</b></span></p>
+<p></p>
+<hr>
+<p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{168}" paraid="479438528" style="text-align: center;"><strong>PROFESSIONAL EXPERIENCE&nbsp;</strong></p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
