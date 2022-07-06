@@ -48,8 +48,7 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 	</li>
 </ul>
 <br>
-<p paraeid="{b057ffb1-1292-4e4c-8db3-2f339e8862ef}{38}" paraid="1564003551"><strong>Wacom Technology Corporation</strong>, Portland, OR -- Remote (04/2015 to 06/2020) - Global Manufacturing Company&nbsp;</p>
-
+<p paraeid="{b057ffb1-1292-4e4c-8db3-2f339e8862ef}{38}" paraid="1564003551"><H2><strong>Wacom Technology Corporation</strong></H2>, Portland, OR -- Remote (04/2015 to 06/2020) - Global Manufacturing Company&nbsp;</p>
 <p paraeid="{b057ffb1-1292-4e4c-8db3-2f339e8862ef}{54}" paraid="103782633"><strong>Vice President of Global Marketing Operations&nbsp;</strong></p>
 
 <ul role="list">
@@ -109,7 +108,7 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 	</li>
 </ul>
 <hr>
-<p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{168}" paraid="479438528" style="text-align: center;"><h2><strong>EDUCATION &amp; CERTIFICATIONS&nbsp;</strong></h2>
+<p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{168}" paraid="479438528" style="text-align: center;"><H2><strong>EDUCATION &amp; CERTIFICATIONS&nbsp;</strong></H2>
 <ul role="list">
 	
 	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="·" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;·&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="7" role="listitem">
