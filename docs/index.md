@@ -1,5 +1,5 @@
 ## Steve Greene,PMP&reg;&nbsp;
-Location: Raleigh, NC USA&nbsp; | <a href="https://www.linkedin.com/in/stevegreene/">linkedin.com/in/stevegreene</a>
+Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/stevegreene/">linkedin.com/in/stevegreene</a>
 
 <p paraeid="{9d584332-5666-4e06-9d7b-11f6e784eca4}{228}" paraid="1293564751" style="text-align: center;"><span style="font-size:18px;"><strong>SENIOR PARTNER MARKETING LEAD&nbsp;</strong><br />
 <b>15+ years experience and proven success building and managing partner marketing programs, developing partner lead pipeline through webinars, email campaigns, events, and other creative programs.&nbsp;</b></span></p>
