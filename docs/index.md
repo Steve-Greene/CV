@@ -27,7 +27,6 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 	<p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{225}" paraid="1617581173">Introduced new event marketing processes, expanding events from 9 planned to 46 executed within six months.&nbsp;</p>
 	</li>
 </ul>
-<br>
 <p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{240}" paraid="967106043"><H2><strong>Is Inspired</strong></H2>Denver, CO -- Remote (11/2020 to 07/2021) - Channel Infrastructure Technology Services Company&nbsp;</p>
 
 <p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{254}" paraid="1598864028"><strong>Channel Engagement Consultant (Contract)&nbsp;</strong></p>
@@ -83,7 +82,7 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 	</li>
 </ul>
 <br>
-<p paraeid="{670873c1-e8e0-49d5-8d95-f899b1330401}{58}" paraid="1016864112"><strong>ALPHA Marketing, Inc.</strong>, Raleigh, NC -- (11/2000 to 04/2015) - Channel Marketing Agency&nbsp;</p>
+<p paraeid="{670873c1-e8e0-49d5-8d95-f899b1330401}{58}" paraid="1016864112"><H2><strong>ALPHA Marketing, Inc.</strong></H2>Raleigh, NC -- (11/2000 to 04/2015) - Channel Marketing Agency&nbsp;</p>
 <p paraeid="{670873c1-e8e0-49d5-8d95-f899b1330401}{74}" paraid="1112654530"><strong>Founder &amp; CEO</strong> - <em>Small Business of the Year, 2014 (Research Triangle Park&rsquo;s Morrisville Chamber of Commerce)&nbsp;</em></p>
 
 <ul role="list">
