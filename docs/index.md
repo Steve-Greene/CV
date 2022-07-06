@@ -10,7 +10,6 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 <p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{174}" paraid="1464229887"><H2><strong>Human Interest</strong></H2>San Francisco, CA -- Remote (08/2021 to 05/2022) - Series D Fintech SaaS Company&nbsp;</p>
 
 <p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{190}" paraid="330750893"><strong>Director of Revenue Marketing and Partner Operations</strong></p>
-
 <ul role="list">
 	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="·" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;·&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="3" role="listitem">
 	<p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{200}" paraid="300960963">Operationalized the Revenue Marketing function, executing data-driven, cross-functional GTM campaigns for three focus areas, driving 8.5X YoY revenue growth within six months, accounting for 22.1% of total Closed/Won revenue.&nbsp;</p>
@@ -29,10 +28,9 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 	</li>
 </ul>
 <br>
-<p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{240}" paraid="967106043">(H2><strong>Is Inspired</strong></H2>Denver, CO -- Remote (11/2020 to 07/2021) - Channel Infrastructure Technology Services Company&nbsp;</p>
+<p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{240}" paraid="967106043"><H2><strong>Is Inspired</strong></H2>Denver, CO -- Remote (11/2020 to 07/2021) - Channel Infrastructure Technology Services Company&nbsp;</p>
 
 <p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{254}" paraid="1598864028"><strong>Channel Engagement Consultant (Contract)&nbsp;</strong></p>
-
 <ul role="list">
 	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="·" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;·&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
 	<p paraeid="{b057ffb1-1292-4e4c-8db3-2f339e8862ef}{5}" paraid="516131329">Project manager for a multinational Impartner partner relationship management (PRM) implementation, including Salesforce.com CRM integration and legacy system content migration, for a $1.3BN UCaaS service provider.&nbsp;</p>
@@ -49,7 +47,6 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 </ul>
 <p paraeid="{b057ffb1-1292-4e4c-8db3-2f339e8862ef}{38}" paraid="1564003551"><H2><strong>Wacom Technology Corporation</strong></H2>Portland, OR -- Remote (04/2015 to 06/2020) - Global Manufacturing Company&nbsp;</p>
 <p paraeid="{b057ffb1-1292-4e4c-8db3-2f339e8862ef}{54}" paraid="103782633"><strong>Vice President of Global Marketing Operations&nbsp;</strong></p>
-
 <ul role="list">
 	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="·" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;·&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="4" role="listitem">
 	<p paraeid="{b057ffb1-1292-4e4c-8db3-2f339e8862ef}{61}" paraid="390302350">Acted in Chief of Staff capacity for the Business Operations team, working closely with a global cross-functional executive leadership team (ELT), including Finance Management, Marketing Management, Sales Operations, Sales Organization, Product Management, Procurement, IT, Business Intelligence (BI), and Customer Support executives.&nbsp;</p>
@@ -68,7 +65,6 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 </ul>
 
 <p paraeid="{b057ffb1-1292-4e4c-8db3-2f339e8862ef}{227}" paraid="313994111"><strong>Vice President of Global Channel Marketing&nbsp;</strong></p>
-
 <ul role="list">
 	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="4" data-font="Symbol" data-leveltext="·" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;·&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
 	<p paraeid="{b057ffb1-1292-4e4c-8db3-2f339e8862ef}{233}" paraid="1769815319">Team leader for 23 direct and indirect reports running channel marketing activities in Australia, Benelux, Brazil, Canada, China, France, Hong Kong, Iberia, India, Italy, Japan, Korea, Mexico, North Latam, Nordics, Southeast Asia, Singapore, South Latam, Taiwan, United Kingdom, and the USA. Improved team performance 142% (audited).&nbsp;</p>
@@ -88,7 +84,6 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 </ul>
 <br>
 <p paraeid="{670873c1-e8e0-49d5-8d95-f899b1330401}{58}" paraid="1016864112"><strong>ALPHA Marketing, Inc.</strong>, Raleigh, NC -- (11/2000 to 04/2015) - Channel Marketing Agency&nbsp;</p>
-
 <p paraeid="{670873c1-e8e0-49d5-8d95-f899b1330401}{74}" paraid="1112654530"><strong>Founder &amp; CEO</strong> - <em>Small Business of the Year, 2014 (Research Triangle Park&rsquo;s Morrisville Chamber of Commerce)&nbsp;</em></p>
 
 <ul role="list">
