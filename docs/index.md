@@ -7,7 +7,7 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 <hr>
 <p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{168}" paraid="479438528" style="text-align: center;"><h2><strong>PROFESSIONAL EXPERIENCE&nbsp;</strong></h2>
 
-<p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{174}" paraid="1464229887"><strong>Human Interest</strong>, San Francisco, CA -- Remote (08/2021 to 05/2022) - Series D Fintech SaaS Company&nbsp;</p>
+<p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{174}" paraid="1464229887"><H2><strong>Human Interest</strong></H2>San Francisco, CA -- Remote (08/2021 to 05/2022) - Series D Fintech SaaS Company&nbsp;</p>
 
 <p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{190}" paraid="330750893"><strong>Director of Revenue Marketing and Partner Operations</strong></p>
 
@@ -29,7 +29,7 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 	</li>
 </ul>
 <br>
-<p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{240}" paraid="967106043"><strong>Is Inspired</strong>, Denver, CO -- Remote (11/2020 to 07/2021) - Channel Infrastructure Technology Services Company&nbsp;</p>
+<p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{240}" paraid="967106043">(H2><strong>Is Inspired</strong></H2>Denver, CO -- Remote (11/2020 to 07/2021) - Channel Infrastructure Technology Services Company&nbsp;</p>
 
 <p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{254}" paraid="1598864028"><strong>Channel Engagement Consultant (Contract)&nbsp;</strong></p>
 
@@ -47,8 +47,7 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 	<p paraeid="{b057ffb1-1292-4e4c-8db3-2f339e8862ef}{29}" paraid="200911884">Led research and discovery of global content graveyards. Narrowed and refined insights, reducing asset inventory from 6,500 to 700. Defined metadata strategy, content governance training, and implemented content purge.&nbsp;</p>
 	</li>
 </ul>
-<br>
-<p paraeid="{b057ffb1-1292-4e4c-8db3-2f339e8862ef}{38}" paraid="1564003551"><H2><strong>Wacom Technology Corporation</strong></H2>, Portland, OR -- Remote (04/2015 to 06/2020) - Global Manufacturing Company&nbsp;</p>
+<p paraeid="{b057ffb1-1292-4e4c-8db3-2f339e8862ef}{38}" paraid="1564003551"><H2><strong>Wacom Technology Corporation</strong></H2>Portland, OR -- Remote (04/2015 to 06/2020) - Global Manufacturing Company&nbsp;</p>
 <p paraeid="{b057ffb1-1292-4e4c-8db3-2f339e8862ef}{54}" paraid="103782633"><strong>Vice President of Global Marketing Operations&nbsp;</strong></p>
 
 <ul role="list">
@@ -56,7 +55,6 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 	<p paraeid="{b057ffb1-1292-4e4c-8db3-2f339e8862ef}{61}" paraid="390302350">Acted in Chief of Staff capacity for the Business Operations team, working closely with a global cross-functional executive leadership team (ELT), including Finance Management, Marketing Management, Sales Operations, Sales Organization, Product Management, Procurement, IT, Business Intelligence (BI), and Customer Support executives.&nbsp;</p>
 	</li>
 </ul>
-
 <ul role="list">
 	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="·" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;·&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="4" role="listitem">
 	<p paraeid="{b057ffb1-1292-4e4c-8db3-2f339e8862ef}{100}" paraid="284900460">Used critical thinking skills and quantitative data analysis to design an analytics dashboard for executives, providing data driven insights to inform future investment, tracking global A&amp;P spend versus actuals with 98.5% accuracy.&nbsp;</p>
