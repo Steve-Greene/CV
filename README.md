@@ -1,2 +1,1 @@
-This is my CV transposed to Github.
-Test 2
+This is my CV on Github Pages.
