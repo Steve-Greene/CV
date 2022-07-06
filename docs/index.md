@@ -1,7 +1,7 @@
 # Steve Greene,PMP&reg;&nbsp;
 Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/stevegreene/">linkedin.com/in/stevegreene</a>
 
-## Channel Partner Marketing
+# Channel Partner Marketing Professional
 
 15+ years experience and proven success building and managing partner marketing programs, developing partner lead pipeline through webinars, email campaigns, events, and other creative programs.&nbsp
 <p></p>
@@ -10,10 +10,10 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 
 ### Human Interest, San Francisco, CA (08/2021 to 05/2022) - Series D Fintech SaaS Company 
 ## Director of Revenue Marketing and Partner Operations
-•	Operationalized the Revenue Marketing function, executing data-driven, cross-functional GTM campaigns for three focus areas, driving 8.5X YoY revenue growth within six months, accounting for 22.1% of total Closed/Won revenue.<br>
-•	Established multichannel campaign GTM planning tools and training for cross-functional team collaboration on campaign deliverables. Simplified processes through operations project management with business stakeholders.<br>
-•	Drove Marketo training and email adoption; implemented omnichannel marketing campaign tracking in Salesforce with Revenue Operations, reporting on lead generation, L2CW %, revenue, and cost/value ROI ratio tracking.<br>
-•	Introduced new event marketing processes, expanding events from 9 planned to 46 executed within six months.<br>
+- Operationalized the Revenue Marketing function, executing data-driven, cross-functional GTM campaigns for three focus areas, driving 8.5X YoY revenue growth within six months, accounting for 22.1% of total Closed/Won revenue.<br>
+- Established multichannel campaign GTM planning tools and training for cross-functional team collaboration on campaign deliverables. Simplified processes through operations project management with business stakeholders.<br>
+- Drove Marketo training and email adoption; implemented omnichannel marketing campaign tracking in Salesforce with Revenue Operations, reporting on lead generation, L2CW %, revenue, and cost/value ROI ratio tracking.<br>
+- Introduced new event marketing processes, expanding events from 9 planned to 46 executed within six months.<br>
 <br>
 
 
