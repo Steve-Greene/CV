@@ -8,7 +8,7 @@ Location: Raleigh, NC USA&nbsp; | <a href="https://www.linkedin.com/in/stevegree
 <p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{168}" paraid="479438528" style="text-align: center;"><strong>PROFESSIONAL EXPERIENCE&nbsp;</strong></p>
 
 
-### Jekyll Themes
+### SENIOR PARTNER MARKETING LEAD
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Steve-Greene/CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
