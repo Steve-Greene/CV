@@ -109,7 +109,7 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 	</li>
 </ul>
 <hr>
-<p paraeid="{670873c1-e8e0-49d5-8d95-f899b1330401}{132}" paraid="508482741" style="text-align: center;"><strong>EDUCATION &amp; CERTIFICATIONS&nbsp;</strong></p>
+<p paraeid="{670873c1-e8e0-49d5-8d95-f899b1330401}{132}" paraid="508482741" style="text-align: center;"><h2><strong>EDUCATION &amp; CERTIFICATIONS&nbsp;</strong><h2></p>
 
 <ul role="list">
 	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="·" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;·&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="7" role="listitem">
@@ -139,7 +139,7 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 	</li>
 </ul>
 <hr>
-<p paraeid="{670873c1-e8e0-49d5-8d95-f899b1330401}{202}" paraid="1478060392" style="text-align: center;"><strong>TECH STACK&nbsp;</strong></p>
+<p paraeid="{670873c1-e8e0-49d5-8d95-f899b1330401}{202}" paraid="1478060392" style="text-align: center;"><h2><strong>TECH STACK&nbsp;</strong></h2></p>
 
 <table aria-rowcount="1" border="1" data-tablelook="1696" data-tablestyle="MsoTableGrid">
 	<tbody>
@@ -183,7 +183,7 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 	</tbody>
 </table>
 <hr>
-<p paraeid="{33c786c2-c5cf-478c-aa47-4adaebd17f07}{35}" paraid="1767614870" style="text-align: center;"><strong>INDUSTRY &amp; AFFILIATIONS&nbsp;</strong></p>
+<p paraeid="{33c786c2-c5cf-478c-aa47-4adaebd17f07}{35}" paraid="1767614870" style="text-align: center;"><h2><strong>INDUSTRY &amp; AFFILIATIONS&nbsp;</strong></h2></p>
 
 <p paraeid="{33c786c2-c5cf-478c-aa47-4adaebd17f07}{43}" paraid="1416328333"><strong>ImpartnerCON, Annual Conference Guest Speaker</strong>: <em>Creating a Transcendental Partner Portal Experience</em> &ndash; 2018&nbsp;</p>
 
