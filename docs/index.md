@@ -109,9 +109,9 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 	</li>
 </ul>
 <hr>
-<p paraeid="{670873c1-e8e0-49d5-8d95-f899b1330401}{132}" paraid="508482741" style="text-align: center;"><h2><strong>EDUCATION &amp; CERTIFICATIONS&nbsp;</strong><h2></p>
-
+<p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{168}" paraid="479438528" style="text-align: center;"><h2><strong>EDUCATION &amp; CERTIFICATIONS&nbsp;</strong></h2>
 <ul role="list">
+	
 	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="1" data-font="Symbol" data-leveltext="·" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;·&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="7" role="listitem">
 	<p paraeid="{670873c1-e8e0-49d5-8d95-f899b1330401}{144}" paraid="58939054"><strong>Stanford University Graduate School of Business</strong> &ndash; Stanford, CA. Executive Education Strategic Marketing Certificate&nbsp;</p>
 	</li>
@@ -183,7 +183,7 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 	</tbody>
 </table>
 <hr>
-<p paraeid="{33c786c2-c5cf-478c-aa47-4adaebd17f07}{35}" paraid="1767614870" style="text-align: center;"><h2><strong>INDUSTRY &amp; AFFILIATIONS&nbsp;</strong></h2></p>
+<p paraeid="{167e8fe1-fe30-48ea-9e21-31033872ace7}{168}" paraid="479438528" style="text-align: center;"><h2><strong>INDUSTRY &amp; AFFILIATIONS&nbsp;</strong></h2>
 
 <p paraeid="{33c786c2-c5cf-478c-aa47-4adaebd17f07}{43}" paraid="1416328333"><strong>ImpartnerCON, Annual Conference Guest Speaker</strong>: <em>Creating a Transcendental Partner Portal Experience</em> &ndash; 2018&nbsp;</p>
 
