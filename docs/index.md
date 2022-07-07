@@ -46,7 +46,7 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 </ul>
 <p paraeid="{b057ffb1-1292-4e4c-8db3-2f339e8862ef}{38}" paraid="1564003551"><H2><strong>Wacom Technology Corporation</strong></H2>Portland, OR -- Remote (04/2015 to 06/2020) - Global Manufacturing Company&nbsp;</p>
 <p paraeid="{b057ffb1-1292-4e4c-8db3-2f339e8862ef}{54}" paraid="103782633"><strong>Vice President of Global Marketing Operations&nbsp;</strong></p>
-(08/2018 TO 06/2020)
+<em>(08/2018 TO 06/2020)</em>
 <ul role="list">
 	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="3" data-font="Symbol" data-leveltext="·" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;·&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="4" role="listitem">
 	<p paraeid="{b057ffb1-1292-4e4c-8db3-2f339e8862ef}{61}" paraid="390302350">Acted in Chief of Staff capacity for the Business Operations team, working closely with a global cross-functional executive leadership team (ELT), including Finance Management, Marketing Management, Sales Operations, Sales Organization, Product Management, Procurement, IT, Business Intelligence (BI), and Customer Support executives.&nbsp;</p>
@@ -65,7 +65,7 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 </ul>
 
 <p paraeid="{b057ffb1-1292-4e4c-8db3-2f339e8862ef}{227}" paraid="313994111"><strong>Vice President of Global Channel Marketing&nbsp;</strong></p>
-(04/2015 TO 07/2018)
+<em>(04/2015 TO 07/2018)</em>
 <ul role="list">
 	<li aria-setsize="-1" data-aria-level="1" data-aria-posinset="4" data-font="Symbol" data-leveltext="·" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559684&quot;:-2,&quot;335559685&quot;:360,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;·&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-listid="1" role="listitem">
 	<p paraeid="{b057ffb1-1292-4e4c-8db3-2f339e8862ef}{233}" paraid="1769815319">Team leader for 23 direct and indirect reports running channel marketing activities in Australia, Benelux, Brazil, Canada, China, France, Hong Kong, Iberia, India, Italy, Japan, Korea, Mexico, North Latam, Nordics, Southeast Asia, Singapore, South Latam, Taiwan, United Kingdom, and the USA. Improved team performance 142% (audited).&nbsp;</p>
