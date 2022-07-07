@@ -81,7 +81,6 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 	<p paraeid="{670873c1-e8e0-49d5-8d95-f899b1330401}{31}" paraid="305600916">Launched a 5-star rated partner portal in the Americas with a learning management system (LMS), training &amp; certification, and content management, increasing active partner accounts 1,337% and deal registration by 179%.&nbsp;</p>
 	</li>
 </ul>
-<br>
 <p paraeid="{670873c1-e8e0-49d5-8d95-f899b1330401}{58}" paraid="1016864112"><H2><strong>ALPHA Marketing, Inc.</strong></H2>Raleigh, NC -- (11/2000 to 04/2015) - Channel Marketing Agency&nbsp;</p>
 <p paraeid="{670873c1-e8e0-49d5-8d95-f899b1330401}{74}" paraid="1112654530"><strong>Founder &amp; CEO</strong> - <em>Small Business of the Year, 2014 (Research Triangle Park&rsquo;s Morrisville Chamber of Commerce)&nbsp;</em></p>
 
