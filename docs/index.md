@@ -1,8 +1,6 @@
 # Steve Greene, PMP&reg;&nbsp;
 # Senior Partner Marketing Professional
 Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/stevegreene/">linkedin.com/in/stevegreene</a>
-<br>
-Download <b>PDF Version</b> | <a href="https://github.com/Steve-Greene/CV/blob/d305b5d92bf8058a358d36725a0847f11a592e8e/Steve%20Greene_CV.pdf">Steve-Greene/CV</a>
 
 15+ years experience and proven success building and managing partner marketing programs, developing partner lead pipeline through webinars, email campaigns, events, and other creative programs.
 <p></p>
@@ -186,3 +184,5 @@ Download <b>PDF Version</b> | <a href="https://github.com/Steve-Greene/CV/blob/d
 <p paraeid="{33c786c2-c5cf-478c-aa47-4adaebd17f07}{67}" paraid="1087318313"><strong>NC State Service Design Symposium, Chair</strong>: <em>ITIL Service Design, App Dev and Innovative Marketing</em> &ndash; 2014, 2015&nbsp;</p>
 
 <p paraeid="{33c786c2-c5cf-478c-aa47-4adaebd17f07}{79}" paraid="2139359765"><strong>Asian Focus North Carolina, Advisory Board Member &amp; Dragon Boat Festival Founding Sponsor</strong> &ndash; 2010 to Present&nbsp;</p>
+<br>
+Download <b>PDF Version</b> | <a href="https://github.com/Steve-Greene/CV/blob/d305b5d92bf8058a358d36725a0847f11a592e8e/Steve%20Greene_CV.pdf">Steve-Greene/CV</a>
