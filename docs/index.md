@@ -1,5 +1,5 @@
 # Steve Greene, PMP&reg;&nbsp;
-# Senior Partner Marketing Professional
+# Channel Partner Marketing Professional
 Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/stevegreene/">linkedin.com/in/stevegreene</a>
 
 15+ years experience and proven success building and managing partner marketing programs, developing partner lead pipeline through webinars, email campaigns, events, and other creative programs.
@@ -185,4 +185,4 @@ Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/st
 
 <p paraeid="{33c786c2-c5cf-478c-aa47-4adaebd17f07}{79}" paraid="2139359765"><strong>Asian Focus North Carolina, Advisory Board Member &amp; Dragon Boat Festival Founding Sponsor</strong> &ndash; 2010 to Present&nbsp;</p>
 <br>
-Download <b>PDF Version</b> | <a href="https://github.com/Steve-Greene/CV/blob/d305b5d92bf8058a358d36725a0847f11a592e8e/Steve%20Greene_CV.pdf">Steve-Greene/CV</a>
+Download <b>PDF Version</b> | <a href="https://github.com/Steve-Greene/CV/blob/f94c7e35b7d6435b280d441b54befcdc1e1a1836/docs/assets/css/Steve%20Greene_CV.pdf">Steve-Greene/CV</a>
