@@ -1,7 +1,8 @@
 # Steve Greene, PMP&reg;&nbsp;
-# Channel Partner Marketing Professional
+# Senior Partner Marketing Professional
 Location: <b>Raleigh, NC USA&nbsp;</b> | <a href="https://www.linkedin.com/in/stevegreene/">linkedin.com/in/stevegreene</a>
-Download PDF Version | <a href="https://github.com/Steve-Greene/CV/blob/d305b5d92bf8058a358d36725a0847f11a592e8e/Steve%20Greene_CV.pdf">Steve-Greene/CV
+<br>
+Download <b>PDF Version</b> | <a href="https://github.com/Steve-Greene/CV/blob/d305b5d92bf8058a358d36725a0847f11a592e8e/Steve%20Greene_CV.pdf">Steve-Greene/CV</a>
 
 15+ years experience and proven success building and managing partner marketing programs, developing partner lead pipeline through webinars, email campaigns, events, and other creative programs.
 <p></p>
