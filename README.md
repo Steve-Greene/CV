@@ -15,3 +15,4 @@ I’m a global B2B marketing leader with 15+ years of experience driving growth 
 ### My promo reel for ALPHA, my start-up which I exited in 2017
 
 ![ALPHA Marketing Sizzle Reel](./ALPHA%20Marketing%20Sizzle%20Reel.mp4)
+https://github.com/Steve-Greene/CV/blob/main/ALPHA%20Marketing%20Sizzle%20Reel.mp4
