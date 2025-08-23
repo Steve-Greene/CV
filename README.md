@@ -14,9 +14,4 @@ I’m a global B2B marketing leader with 15+ years of experience driving growth 
 
 ### My promo reel for ALPHA, my start-up which I exited in 2017
 
-<video width="100%" autoplay muted loop>
-  <source src="./ALPHA%20Marketing%20Sizzle%20Reel.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-*[Click here if video doesn't display](./ALPHA%20Marketing%20Sizzle%20Reel.mp4)*
+![ALPHA Marketing Sizzle Reel](./ALPHA%20Marketing%20Sizzle%20Reel.mp4)
