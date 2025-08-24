@@ -17,6 +17,6 @@ I’m a global B2B marketing leader with 20+ years experience driving growth thr
 ### Check out this promo reel and creative case studies for ALPHA, a channel marketing start-up I founded in 2000 and exited in 2017. ###
 - Here's the story behind each piece of creative in the video below (and more): [ALPHA Creative Case Studies](https://drive.google.com/file/d/1OVkm7q24GpStjWue7R6WpQhlSE0YCQiZ/view?usp=sharing)
 - While dated this is still a good example of the strategic, creative thinking I can bring to your organization.
-- Which deliverables reaonate most with you? Message me and let me know! [LinkedIn](https://www.linkedin.com/in/stevegreene)
+- Which deliverables resonate most with you? Message me and let me know! [LinkedIn](https://www.linkedin.com/in/stevegreene)
 
 [![ALPHA Marketing Sizzle Reel](https://img.youtube.com/vi/A78Dprv7m3M/0.jpg)](https://youtu.be/A78Dprv7m3M)
