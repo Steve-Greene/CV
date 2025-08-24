@@ -2,7 +2,7 @@
 
 Welcome to my CV repository 👋  
 
-I’m a global B2B marketing leader with 20+ years experience driving growth through partner ecosystems, go-to-market strategy, creating ideas that sell and delivering excellence in execution. My focus is on translating strategic ideas into differentiating, scalable programs that deliver measurable results.  
+I’m a global B2B marketing leader with 20+ years' experience driving growth through partner ecosystems, go-to-market strategy, creating ideas that sell and delivering excellence in execution. My focus is on translating strategic ideas into differentiating, scalable programs that deliver measurable results.  
 
 ### What I Bring 
 - **B2B marketing leadership** across a broad cross-section of enterprise industries and verticals, with proven ability to drive pipeline growth and revenue impact
