@@ -14,7 +14,8 @@ I’m a global B2B marketing leader with 20+ years experience driving growth thr
 **[Download my CV (PDF)](./Steve%20Greene_Global%20Marketing%20Leader.pdf)**
 - Best way to reach me: [LinkedIn](https://www.linkedin.com/in/stevegreene)
 
-### Check out this promo reel for ALPHA, the start-up I founded in 2000 and exited in 2017
+### Check out this promo reel for ALPHA, the start-up I founded in 2000 and exited in 2017. ###
+- Here's the story behind each piece of creative in the video: [ALPHA Creative Case Studies](https://drive.google.com/file/d/1OVkm7q24GpStjWue7R6WpQhlSE0YCQiZ/view?usp=sharing)
 
 [![ALPHA Marketing Sizzle Reel](https://img.youtube.com/vi/A78Dprv7m3M/0.jpg)](https://youtu.be/A78Dprv7m3M)
 
