@@ -7,16 +7,15 @@ I’m a global B2B marketing leader with 20+ years experience driving growth thr
 ### What I Bring 
 - **B2B marketing leadership** across a broad cross-section of enterprise industries and verticals, with proven ability to drive pipeline growth and revenue impact
 - **Cross-functional expertise** in demand generation, product marketing, marketing operations, and global campaign execution across enterprise, mid-market, and ABM segments  
-- **Data-driven marketing optimization** - proven track record of scaling programs that deliver measurable results, including tripling qualified leads and increasing pipeline contribution by 43%
+- **Data-driven marketing optimization** - proven track record of scaling programs that deliver measurable results, including tripling qualified leads quarter over quarter, currently contributing 43% of pipeline
 - **Global marketing operations** - experience managing marketing across Americas, EMEA, and Asia Pacific regions for multinational technology companies
-- **Channel marketing agency founder** - see video below
+- **Channel marketing agency founder** - the entrepreneurial, creative, business savvy skills your organization needs to fuel growth. See video below
 
 **[Download my CV (PDF)](./Steve%20Greene_Global%20Marketing%20Leader.pdf)**
 - Best way to reach me: [LinkedIn](https://www.linkedin.com/in/stevegreene)
 
-### Check out this promo reel and creative case studies for ALPHA, a channel marketing start-up I founded in 2000 and exited in 2017. ###
-- Here's the story behind each piece of creative in the video below (and more): [ALPHA Creative Case Studies](https://drive.google.com/file/d/1OVkm7q24GpStjWue7R6WpQhlSE0YCQiZ/view?usp=sharing)
-- While dated this is still a good example of the strategic, creative thinking I can bring to your organization.
-- Which deliverables resonate most with you? Message me and let me know! [LinkedIn](https://www.linkedin.com/in/stevegreene)
+### Here's the promo reel for ALPHA, the channel marketing start-up I founded in 2000 and exited in 2015 to head up global channel marketing for a client at [Wacom](https://www.wacom.com/en-us) ###
+- There's a story behind each piece of creative in the video below. Learn more: [ALPHA Creative Case Studies](https://drive.google.com/file/d/1OVkm7q24GpStjWue7R6WpQhlSE0YCQiZ/view?usp=sharing)
+- What's your story? Which deliverables resonate most with you? How can I help you or your organization scale? Let's get a converstation started! [LinkedIn](https://www.linkedin.com/in/stevegreene)
 
 [![ALPHA Marketing Sizzle Reel](https://img.youtube.com/vi/A78Dprv7m3M/0.jpg)](https://youtu.be/A78Dprv7m3M)
