@@ -17,7 +17,8 @@ I'm a global B2B marketing executive with 20+ years' experience building **partn
 - **12.2%** YoY channel sales growth, exceeded targets by 186%
 - **8.5x** revenue growth with marketing influence: 28% to 41%
 
-**[Download My Executive Resume (PDF)](./Steve-Greene_Global-Channel-Partner-Marketing.pdf)**
+**[Download My Resume (PDF)](https://github.com/Steve-Greene/CV/raw/main/Steve%20Greene_Global%20Channel%20Partner%20Marketing.pdf)**
+
 
 - **Currently exploring senior marketing leadership opportunities in B2B SaaS and enterprise software**
 - Best way to reach me: [LinkedIn](https://www.linkedin.com/in/stevegreene)
