@@ -17,9 +17,10 @@ I'm a global B2B marketing executive with 20+ years' experience building **partn
 - **12.2%** YoY channel sales growth, exceeded targets by 186%
 - **8.5x** revenue growth with marketing influence: 28% to 41%
 
-**[Download My Executive Resume (PDF)](./Steve-Greene-Partner-Ecosystem-Leader.pdf)**
+**[Download My Executive Resume (PDF)](./Steve-Greene_Global-Channel-Partner-Marketing.pdf)**
+
 - **Currently exploring senior marketing leadership opportunities in B2B SaaS and enterprise software**
-- Best way to reach me: [LinkedIn](https://www.linkedin.com/in/stevegreene) | steve.greene@zoho.com
+- Best way to reach me: [LinkedIn](https://www.linkedin.com/in/stevegreene)
 
 ### Here's the promo reel for ALPHA, the channel marketing start-up I founded in 2000 and exited in 2015
 **Agency of Record for Lenovo North America** and Fortune 500 enterprises, demonstrating the strategic partnership development approach I bring to enterprise organizations.
