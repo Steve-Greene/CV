@@ -1,20 +1,29 @@
-# Steve Greene, PMP®
+# Steve Greene, PMP® | Channel Partner Ecosystem Leader
 
 Welcome to my CV repository 👋  
 
-I’m a global B2B marketing leader with 20+ years' experience driving growth through partner ecosystems, go-to-market strategy, creating ideas that sell and delivering excellence in execution. My focus is on translating strategic ideas into differentiating, scalable programs that deliver measurable results.  
+I'm a global B2B marketing executive with 20+ years' experience building **partner ecosystems** and **revenue engines** for enterprise software companies. My focus is on translating strategic ideas into scalable programs that deliver measurable results: **1,337% partner account growth**, **84% partner-sourced acquisition** with deals **2.2x larger** than average, **12.2% YoY channel growth** across 22 countries.
 
 ### What I Bring 
-- **B2B marketing leadership** across a broad cross-section of enterprise industries and verticals, with proven ability to drive pipeline growth and revenue impact
-- **Cross-functional expertise** in demand generation, product marketing, marketing operations, and global campaign execution across enterprise, mid-market, and ABM segments  
-- **Data-driven marketing optimization** - proven track record of scaling programs that deliver measurable results, including tripling qualified leads quarter over quarter, currently contributing 43% of pipeline
-- **Global marketing operations** - experience managing marketing across Americas, EMEA, and Asia Pacific regions for multinational technology companies
-- **Channel marketing agency founder** - the entrepreneurial, creative, business savvy skills your organization needs to fuel growth. See video below
+- **Partner ecosystem development** and **revenue marketing leadership** across enterprise industries, with proven ability to drive pipeline growth through **strategic partnerships** and **cross-functional collaboration**
+- **Global marketing operations** expertise in **marketing automation** (Salesforce, HubSpot, Impartner), demand generation, and campaign execution across Americas, EMEA, and Asia Pacific for multinational technology companies  
+- **Data-driven optimization** with proven track record: **marketing influence grew from 28% to 41%** of closed/won revenue, tripling qualified leads through systematic execution and **strategic planning**
+- **Digital transformation leadership** - experience managing **enterprise-level** organizations through change while achieving **measurable business outcomes** and maintaining budget accuracy across eight currencies
+- **Channel marketing agency founder** - achieved **Inc. 500 recognition twice**, serving Fortune 500 enterprises including AT&T, Cisco, IBM, Lenovo. The entrepreneurial and creative skills your organization needs. See video below
 
-**[Download my CV (PDF)](./Steve%20Greene_Global%20Marketing%20Leader.pdf)**
-- Best way to reach me: [LinkedIn](https://www.linkedin.com/in/stevegreene)
+### Key Achievements
+- **1,337%** partner account growth across 22 countries
+- **84%** partner-sourced acquisition with deals 2.2x larger  
+- **12.2%** YoY channel sales growth, exceeded targets by 186%
+- **8.5x** revenue growth with marketing influence: 28% to 41%
 
-### Here's the promo reel for ALPHA, the channel marketing start-up I founded in 2000 and exited in 2015 ###
+**[Download My Executive Resume (PDF)](./Steve-Greene-Partner-Ecosystem-Leader.pdf)**
+- **Currently exploring senior marketing leadership opportunities in B2B SaaS and enterprise software**
+- Best way to reach me: [LinkedIn](https://www.linkedin.com/in/stevegreene) | steve.greene@zoho.com
+
+### Here's the promo reel for ALPHA, the channel marketing start-up I founded in 2000 and exited in 2015
+**Agency of Record for Lenovo North America** and Fortune 500 enterprises, demonstrating the strategic partnership development approach I bring to enterprise organizations.
+
 - There's a story behind each piece of creative in the video below. Learn more here: [ALPHA Creative Case Studies](https://drive.google.com/file/d/1OVkm7q24GpStjWue7R6WpQhlSE0YCQiZ/view?usp=sharing)
 - Which case studies resonate most with you 💡? Let me know - let's connect on [LinkedIn](https://www.linkedin.com/in/stevegreene)
 
