@@ -1,8 +1,8 @@
-# Steve Greene, PMP® | Channel Partner Ecosystem Leader
+# Steve Greene, PMP® | VP Marketing, Channel Partner Ecosystem Leader
 
 Welcome to my CV repository 👋  
 
-I'm a global B2B marketing executive with 20+ years' experience building **partner ecosystems** and **revenue engines** for enterprise software companies. My focus is on translating strategic ideas into scalable programs that deliver measurable results: **1,337% partner account growth**, **84% partner-sourced acquisition** with deals **2.2x larger** than average, **12.2% YoY channel growth** across 22 countries.
+I'm a global B2B marketing executive with 20+ years' experience building **partner programs** and **revenue engines** for enterprise software companies. My focus is on translating strategic ideas into scalable programs that deliver measurable results: **1,337% partner account growth**, **84% partner-sourced acquisition** with deals **2.2x larger** than average, **12.2% YoY channel growth** across 22 countries.
 
 ### What I Bring 
 - **Partner ecosystem development** and **revenue marketing leadership** across enterprise industries, with proven ability to drive pipeline growth through **strategic partnerships** and **cross-functional collaboration**
