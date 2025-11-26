@@ -17,10 +17,12 @@ I'm a global B2B marketing executive with 20+ years' experience building **partn
 - **12.2%** YoY channel sales growth, exceeded targets by 186%
 - **8.5x** revenue growth with marketing influence: 28% to 41%
 
+Exploring how my experience driving adoption of complex financial infrastructure (payment security, compliance automation) translates to blockchain privacy and zero-knowledge technology markets.
+
 **[Download My Resume (PDF)](https://github.com/Steve-Greene/CV/raw/main/Steve%20Greene_Global%20Channel%20Partner%20Marketing.pdf)**
 
 
-- **Currently exploring senior marketing leadership opportunities in B2B SaaS and enterprise software**
+- **Currently exploring senior marketing leadership opportunities in Web3/blockchain infrastructure and enterprise technology - particularly roles requiring developer marketing, institutional partnerships, and complex compliance positioning**
 - Best way to reach me: [LinkedIn](https://www.linkedin.com/in/stevegreene)
 
 ### Here's the promo reel for ALPHA, the channel marketing start-up I founded in 2000 and exited in 2015
