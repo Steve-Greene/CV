@@ -21,7 +21,7 @@ Exploring how my experience driving adoption of complex financial infrastructure
 
 **Download My Resume (PDF)(https://github.com/Steve-Greene/CV/raw/main/docs/assets/Steve%20Greene_Head%20of%20Marketing.pdf)**
 
-- **Currently exploring senior marketing leadership opportunities in Web3/blockchain infrastructure and enterprise technology,*** particularly roles requiring developer marketing, institutional partnerships, and brand building.**
+- **Currently exploring senior marketing leadership opportunities in Web3/blockchain infrastructure and enterprise technology,** particularly roles requiring developer marketing, institutional partnerships, and brand building.
 - Best way to reach me: [LinkedIn](https://www.linkedin.com/in/stevegreene)
 
 ### Here's the promo reel for ALPHA, the channel marketing start-up I founded in 2000 and exited in 2015
