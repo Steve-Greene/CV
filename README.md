@@ -20,8 +20,7 @@ I'm a global B2B marketing executive with 20+ years' experience in **enterprise 
 
 Let's talk about how my experience **driving adoption of complex financial infrastructure** (payment security, compliance automation) translates to blockchain privacy and zero-knowledge technology markets.
 
-**[Download My Resume (PDF)](https://github.com/Steve-Greene/CV/raw/main/docs/assets/Steve%20Greene_Head%20of%20Marketing.pdf)**
-
+**[Download My Resume (PDF)](https://github.com/Steve-Greene/CV/blob/0d3d34850e4ec8bc24a9a6b81bd1548137e3a3dc/Steve%20Greene_Head%20of%20Marketing.pdf).**
 - **Currently exploring senior marketing leadership opportunities in Web3/blockchain infrastructure and enterprise technology,** particularly roles requiring brand building, competitive positioning, enterprise marketing, developer marketing, platform and institutional partnerships.
 - Best way to reach me: [LinkedIn](https://www.linkedin.com/in/stevegreene)
 
