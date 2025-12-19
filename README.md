@@ -26,8 +26,7 @@ Building Solana-based membership affinity platform demonstrating Web2→Web3 ide
 
 Let's talk about how my experience **driving adoption of complex payments infrastructure** and **building partner ecosystems for fintech platforms** translates to **blockchain and Web3** infrastructure requiring mainstream business adoption.
 
-**[Download My Resume (PDF)](https://github.com/Steve-Greene/CV/blob/0d3d34850e4ec8bc24a9a6b81bd1548137e3a3dc/Steve%20Greene_Head%20of%20Marketing.pdf).**
-
+**[Download My Resume (PDF)](https://github.com/Steve-Greene/CV/blob/1d655a7cfc0a363baf11f6d63bb74d6d1652c454/docs/assets/Steve%20Greene%2C%20Head%20of%20Marketing.pdf)**
 - **Currently exploring senior marketing leadership opportunities in Web3/blockchain infrastructure and enterprise technology,** particularly roles requiring brand building, competitive positioning, enterprise marketing, developer marketing, platform and institutional partnerships.
 - Best way to reach me: [LinkedIn](https://www.linkedin.com/in/stevegreene)
 
